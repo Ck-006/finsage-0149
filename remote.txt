@@ -1,0 +1,6 @@
+﻿origin	https://github.com/Ck-006/finsage (fetch)
+origin	https://github.com/Ck-006/finsage (push)
+target	https://github.com/ShreeyaReddyL/hello-friend (fetch)
+target	https://github.com/ShreeyaReddyL/hello-friend (push)
+upstream	https://github.com/ShreeyaReddyL/hello-friend (fetch)
+upstream	https://github.com/ShreeyaReddyL/hello-friend (push)

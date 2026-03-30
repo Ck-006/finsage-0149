@@ -1,0 +1,11 @@
+crewai==0.95.0
+crewai[tools]
+fastapi
+uvicorn[standard]
+pandas
+numpy
+python-dotenv
+openai
+pydantic
+requests
+redis[asyncio]

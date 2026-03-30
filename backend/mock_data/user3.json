@@ -1,0 +1,36 @@
+{
+  "user": {
+    "name": "Sneha Reddy",
+    "age": 26,
+    "city": "Hyderabad",
+    "monthly_income": 60000,
+    "cibil_score": 720,
+    "risk_profile": "aggressive"
+  },
+  "expenses": [
+    {"category": "Rent", "amount": 15000, "month": "March", "ai_tag": "fixed"},
+    {"category": "Groceries", "amount": 6000, "month": "March", "ai_tag": "essential"},
+    {"category": "Eating Out", "amount": 12000, "month": "March", "ai_tag": "lifestyle"},
+    {"category": "Clothes", "amount": 8000, "month": "March", "ai_tag": "lifestyle"},
+    {"category": "Transport", "amount": 3000, "month": "March", "ai_tag": "essential"},
+    {"category": "WiFi", "amount": 1000, "month": "March", "ai_tag": "fixed"},
+    {"category": "Hobbies", "amount": 5000, "month": "March", "ai_tag": "impulse_buy"}
+  ],
+  "loans": [],
+  "goals": [
+    {
+      "name": "First SIP Investment",
+      "target_amount": 25000,
+      "current_savings": 2000,
+      "monthly_contribution": 1000,
+      "target_date": "2026-04-01"
+    },
+    {
+      "name": "Laptop Upgrade",
+      "target_amount": 80000,
+      "current_savings": 10000,
+      "monthly_contribution": 4000,
+      "target_date": "2026-08-31"
+    }
+  ]
+}

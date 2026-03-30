@@ -1,0 +1,55 @@
+{
+  "user": {
+    "name": "Arjun Mehta",
+    "age": 34,
+    "city": "Mumbai",
+    "monthly_income": 120000,
+    "cibil_score": 750,
+    "risk_profile": "conservative"
+  },
+  "expenses": [
+    {"category": "Rent", "amount": 35000, "month": "March", "ai_tag": "fixed"},
+    {"category": "Groceries", "amount": 12000, "month": "March", "ai_tag": "essential"},
+    {"category": "Utilities", "amount": 5000, "month": "March", "ai_tag": "fixed"},
+    {"category": "Transport", "amount": 8000, "month": "March", "ai_tag": "essential"},
+    {"category": "Insurance", "amount": 4000, "month": "March", "ai_tag": "fixed"},
+    {"category": "Dining Out", "amount": 6000, "month": "March", "ai_tag": "lifestyle"},
+    {"category": "Medical", "amount": 3000, "month": "March", "ai_tag": "essential"},
+    {"category": "Childcare", "amount": 10000, "month": "March", "ai_tag": "fixed"},
+    {"category": "Misc", "amount": 5000, "month": "March", "ai_tag": "lifestyle"}
+  ],
+  "loans": [
+    {
+      "name": "SBI Home Loan",
+      "outstanding_balance": 3500000,
+      "emi_amount": 34500,
+      "interest_rate": 8.5,
+      "tenure_remaining_months": 180,
+      "loan_type": "home"
+    },
+    {
+      "name": "HDFC Car Loan",
+      "outstanding_balance": 450000,
+      "emi_amount": 20500,
+      "interest_rate": 10.5,
+      "tenure_remaining_months": 24,
+      "loan_type": "vehicle"
+    }
+  ],
+  "goals": [
+    {
+      "name": "Child Education Fund",
+      "target_amount": 500000,
+      "current_savings": 50000,
+      "monthly_contribution": 5000,
+      "target_date": "2030-01-01"
+    },
+    {
+      "name": "Emergency Fund",
+      "target_amount": 200000,
+      "current_savings": 40000,
+      "monthly_contribution": 3000,
+      "target_date": "2026-06-31"
+    }
+  ]
+}

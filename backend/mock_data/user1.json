@@ -1,0 +1,54 @@
+{
+  "user": {
+    "name": "Priya Sharma",
+    "age": 28,
+    "city": "Bengaluru",
+    "monthly_income": 85000,
+    "cibil_score": 680,
+    "risk_profile": "moderate"
+  },
+  "expenses": [
+    {"category": "Rent", "amount": 22000, "month": "March", "ai_tag": "fixed"},
+    {"category": "Groceries", "amount": 8000, "month": "March", "ai_tag": "essential"},
+    {"category": "Food Delivery", "amount": 15000, "month": "March", "ai_tag": "impulse_buy"},
+    {"category": "Transport", "amount": 4000, "month": "March", "ai_tag": "essential"},
+    {"category": "OTT Subscriptions", "amount": 2500, "month": "March", "ai_tag": "lifestyle"},
+    {"category": "Electricity & WiFi", "amount": 3500, "month": "March", "ai_tag": "fixed"},
+    {"category": "Shopping", "amount": 7000, "month": "March", "ai_tag": "lifestyle"},
+    {"category": "Gym", "amount": 3000, "month": "March", "ai_tag": "lifestyle"}
+  ],
+  "loans": [
+    {
+      "name": "HDFC Credit Card",
+      "outstanding_balance": 42000,
+      "emi_amount": 4500,
+      "interest_rate": 36.0,
+      "tenure_remaining_months": 12,
+      "loan_type": "credit_card"
+    },
+    {
+      "name": "ICICI Personal Loan",
+      "outstanding_balance": 180000,
+      "emi_amount": 8500,
+      "interest_rate": 14.5,
+      "tenure_remaining_months": 24,
+      "loan_type": "personal"
+    }
+  ],
+  "goals": [
+    {
+      "name": "Emergency Fund",
+      "target_amount": 100000,
+      "current_savings": 15000,
+      "monthly_contribution": 2000,
+      "target_date": "2026-12-31"
+    },
+    {
+      "name": "Vacation Fund",
+      "target_amount": 50000,
+      "current_savings": 5000,
+      "monthly_contribution": 1500,
+      "target_date": "2026-09-30"
+    }
+  ]
+}
