@@ -44,6 +44,7 @@ app = FastAPI(
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[
+        "finsage-0149.vercel.app",
         "http://localhost:8080", "http://127.0.0.1:8080",
         "http://192.168.10.170:8080",
         "http://localhost:5173", "http://localhost:3000",
